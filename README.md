@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Joseph Kariuki</h1>
-<h3 align="center">Software developer with unending interest in learning and contributing to open source.</h3>
+<h1>Joseph Kariuki</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkariukidev&label=Profile%20views&color=0e75b6&style=flat" alt="jkariukidev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkariukidev" alt="jkariukidev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jkariukidev" target="blank"><img src="https://img.shields.io/twitter/follow/jkariukidev?logo=twitter&style=for-the-badge" alt="jkariukidev" /></a> </p>
 
