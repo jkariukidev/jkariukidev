@@ -10,11 +10,9 @@
 
 - 📝 I regularly write articles on [https://josephkariuki.com/portfolio/blog](https://josephkariuki.com/portfolio/blog)
 
-- 💬 Ask me about **Python, Javascript, Django,**
+- 💬 Ask me about **Python, Javascript, Django**
 
 - 📫 How to reach me **contact@josephkariuki.com**
-
-- 📄 Know about my experiences [https://josephkariuki.com/joseph-kariuki-resume.pdf](https://josephkariuki.com/joseph-kariuki-resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
