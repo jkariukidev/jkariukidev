@@ -16,6 +16,7 @@ I am Joseph, a Software Developer with a background in Geospatial Engineering cu
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+  ![Linux](https://img.shields.io/badge/-Linux-black?style=plastic&logo=linux)
   ![Docker](https://img.shields.io/badge/-docker-1642B6?style=plastic&logo=docker)
   ![Windows](https://img.shields.io/badge/-Windows-1572B6?&style=plastic&logo=windows)
   ![Wordpress](https://img.shields.io/badge/-wordpress-394459?style=plastic&logo=wordpress)
