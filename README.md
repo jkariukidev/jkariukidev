@@ -24,15 +24,14 @@ I am Joseph, a Software Developer with a background in Geospatial Engineering cu
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D)
-- ⚡️ Fun fact: I admire traveling and digital nomadism.
-- Feel free to connect with me: 
-- [![GeeksforGeeks Badge](https://img.shields.io/badge/-jkariukidev-black?style=plastic&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/jkariukidev)](https://auth.geeksforgeeks.org/user/jkariukidev)
+- Feel free to connect with me: [![GeeksforGeeks Badge](https://img.shields.io/badge/-jkariukidev-black?style=plastic&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/jkariukidev)](https://auth.geeksforgeeks.org/user/jkariukidev)
 [![Hackerrank Badge](https://img.shields.io/badge/-jkariukidev-grey?style=plastic&logo=hackerrank&logoColor=green&link=https://www.hackerrank.com/jkariukidev)](https://www.hackerrank.com/jkariukidev)
 [![Twitter Badge](https://img.shields.io/badge/-jkariukidev-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/jkariukidev/)](https://twitter.com/jkariukidev/)
 [![Linkedin Badge](https://img.shields.io/badge/-jkariukidev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephkariuki/)](https://www.linkedin.com/in/josephkariuki/)
 [![Medium Badge](https://img.shields.io/badge/-@jkariukidev-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@jkariukidev/)](https://medium.com/@jkariukidev)
 [![Youtube Badge](https://img.shields.io/badge/-JosephKariuki-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ)](https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ)
 [![Instagram Badge](https://img.shields.io/badge/-jkariukidev-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/jkariukidev/)](https://instagram.com/jkariukidev)
+- ⚡️ Fun fact: I admire traveling and digital nomadism.
 
 ## Stats:
 
@@ -46,7 +45,7 @@ I am Joseph, a Software Developer with a background in Geospatial Engineering cu
 * * *
 
 
-# Read my recent blog posts
+# Some Blog Posts
 
 
 - [Installing and Running WSL on Windows](https://josephkariuki.com/programming/enabling-running-wsl/)
