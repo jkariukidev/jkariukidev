@@ -52,4 +52,3 @@ I am Joseph, a Software Developer with a background in Geospatial Engineering cu
 - [Working with Python Virtual Environments in Windows](https://josephkariuki.com/programming/working-with-python-virtual-environments-in-windows/)
 - [GeoNode advanced installation using Docker](https://josephkariuki.com/gis/geonode-basic-installation-using-docker/)
 - [Deploying GeoServer on Ubuntu](https://josephkariuki.com/gis/installing-qgis-in-ubuntu/)
-- [How To Enable OnBackPress Exit Facility In Your React Native App](https://medium.com/@moshfiqrony/how-to-enable-onbackpress-exit-facility-in-your-react-native-app-37880c4d3b4e?source=friends_link&sk=1d94551fba831d1989ca153b7343d40a)
