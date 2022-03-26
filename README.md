@@ -36,12 +36,12 @@ I am Joseph, a Software Developer with a background in Geospatial Engineering cu
 - ⚡️ Fun fact: I admire traveling and digital nomadism.
 
 ## Stats:
+
+![jkariukidev](https://github-readme-stats.vercel.app/api/top-langs?username=jkariukidev&show_icons=true&locale=en&layout=compact)
   
 
 [![joseph's github stats](https://github-readme-stats.vercel.app/api?username=jkariukidev&theme=dark&show_icons=true)](https://github.com/jkariukidev)
 
-
-![jkariukidev](https://github-readme-stats.vercel.app/api/top-langs?username=jkariukidev&show_icons=true&locale=en&layout=compact)
 
 [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=jkariukidev&theme=react-dark)](https://github.com/jkariukidev)
 
