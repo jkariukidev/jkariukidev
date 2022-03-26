@@ -2,6 +2,8 @@
 
 I am Joseph, a Software Developer with a background in Geospatial Engineering currently coding Web and GIS products as a freelance developer. My technical interests include Full-Stack Web, DevOps and Geographic Information Systems.
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jkariukidev.jkariukidev" alt="visitor badge"/>
+
 - 🏢 Currently working as a freelance developer
 - 🚀 Day-to-day development stack: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -34,11 +36,14 @@ I am Joseph, a Software Developer with a background in Geospatial Engineering cu
 - ⚡️ Fun fact: I admire traveling and digital nomadism.
 
 ## Stats:
+  
 
 [![joseph's github stats](https://github-readme-stats.vercel.app/api?username=jkariukidev&theme=dark&show_icons=true)](https://github.com/jkariukidev)
 
 
 ![jkariukidev](https://github-readme-stats.vercel.app/api/top-langs?username=jkariukidev&show_icons=true&locale=en&layout=compact)
+
+[![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=jkariukidev&theme=react-dark)](https://github.com/jkariukidev)
 
   
 
