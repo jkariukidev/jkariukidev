@@ -29,7 +29,7 @@ I am Joseph, a Software Developer with a background in Geospatial Engineering cu
 [![Medium Badge](https://img.shields.io/badge/-@jkariukidev-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@jkariukidev/)](https://medium.com/@jkariukidev)
 [![Youtube Badge](https://img.shields.io/badge/-JosephKariuki-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ)](https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ)
 [![Instagram Badge](https://img.shields.io/badge/-jkariukidev-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/jkariukidev/)](https://instagram.com/jkariukidev)
-- ⚡️ Fun fact: I admire traveling and digital nomadism.
+- ⚡️ Fun fact: I fancy traveling and digital nomadism.
 
 ## Stats:
 
