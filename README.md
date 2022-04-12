@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Joseph Kariuki, a Software Developer with a background in Geospatial Engineering currently coding Web and GIS products as a freelance developer. My technical interests include Full-Stack Web, DevOps and Geographic Information Systems.
+Kariuki here, Software Developer with a background in Geospatial Engineering currently coding Web and GIS solutions. Technical interests include Full-Stack Web, DevOps and Geographic Information Systems development.
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jkariukidev.jkariukidev" alt="visitor badge"/>
 
