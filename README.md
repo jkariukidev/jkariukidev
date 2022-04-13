@@ -19,6 +19,7 @@ Kariuki here, Software Developer with a background in Geospatial Engineering cur
   ![Windows](https://img.shields.io/badge/-Windows-1572B6?&style=plastic&logo=windows)
   ![Wordpress](https://img.shields.io/badge/-wordpress-394459?style=plastic&logo=wordpress)
 - 🌱 Currently learning about:
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D)
