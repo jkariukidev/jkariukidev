@@ -4,7 +4,7 @@ Kariuki here, Software Developer with a background in Geospatial Engineering cur
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jkariukidev.jkariukidev" alt="visitor badge"/>
 
-- 🏢 Currently working as a freelance developer
+- 🏢 Currently working as a geospatial software engineer.
 - 🚀 Day-to-day development stack: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=blue)
