@@ -1,33 +1,31 @@
 # Hi there 👋
 
-Kariuki here, Software Developer with a background in Geospatial Engineering currently coding Web and GIS solutions. Technical interests include Full-Stack Web, DevOps and Geographic Information Systems development.
+Kariuki here, Software Developer with a background in Geospatial Engineering currently coding Web and GIS solutions. Interests include Full-Stack Web, DevOps and Geographic Information Systems.
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jkariukidev.jkariukidev" alt="visitor badge"/>
 
 - 🏢 Currently working as a geospatial software engineer.
-- 🚀 Day-to-day development stack: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+- 🚀 Day-to-day development stack: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Docker](https://img.shields.io/badge/-docker-1642B6?style=plastic&logo=docker)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=blue)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
 - 💻 I also work using:
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![PyQt](https://img.shields.io/badge/-PyQt-394459?style=plastic&logo=qt)
   ![QGIS](https://img.shields.io/badge/-QGIS-092E20?style=plastic&logo=qgis)
   ![Linux](https://img.shields.io/badge/-Linux-black?style=plastic&logo=linux)
-  ![Docker](https://img.shields.io/badge/-docker-1642B6?style=plastic&logo=docker)
   ![Windows](https://img.shields.io/badge/-Windows-1572B6?&style=plastic&logo=windows)
   ![Wordpress](https://img.shields.io/badge/-wordpress-394459?style=plastic&logo=wordpress)
-- 🌱 Currently learning about:
+- 🌱 Learning about:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D)
 - Feel free to connect with me: 
-[![Hackerrank Badge](https://img.shields.io/badge/-jkariukidev-grey?style=plastic&logo=hackerrank&logoColor=green&link=https://www.hackerrank.com/jkariukidev)](https://www.hackerrank.com/jkariukidev)
 [![Twitter Badge](https://img.shields.io/badge/-jkariukidev-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/jkariukidev/)](https://twitter.com/jkariukidev/)
 [![Linkedin Badge](https://img.shields.io/badge/-jkariukidev-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephkariuki/)](https://www.linkedin.com/in/josephkariuki/)
-[![Medium Badge](https://img.shields.io/badge/-@jkariukidev-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@jkariukidev/)](https://medium.com/@jkariukidev)
 [![Youtube Badge](https://img.shields.io/badge/-JosephKariuki-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ)](https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ)
 [![Instagram Badge](https://img.shields.io/badge/-jkariukidev-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/jkariukidev/)](https://instagram.com/jkariukidev)
 - ⚡️ Fun fact: I fancy traveling and digital nomadism.
