@@ -32,15 +32,12 @@ Kariuki here, Software Developer with a background in Geospatial Engineering cur
 
 ## Stats:
 
-![jkariukidev](https://github-readme-stats.vercel.app/api/top-langs?username=jkariukidev&show_icons=true&locale=en&layout=compact)
-  
+![jkariukidev](https://github-readme-stats.vercel.app/api/top-langs?username=jkariukidev&show_icons=true&locale=en&layout=compact) [![joseph's github stats](https://github-readme-stats.vercel.app/api?username=jkariukidev&theme=dark&show_icons=true)](https://github.com/jkariukidev)
 
-[![joseph's github stats](https://github-readme-stats.vercel.app/api?username=jkariukidev&theme=dark&show_icons=true)](https://github.com/jkariukidev)
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jkariukidev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="jkariukidev" /></p>
 
 [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=jkariukidev&theme=react-dark)](https://github.com/jkariukidev)
 
-  
 
 * * *
 
