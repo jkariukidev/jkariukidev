@@ -1,26 +1,30 @@
 # Hi there 👋
 
-Kariuki here, Software Developer with a background in Geospatial Engineering currently coding Web and GIS solutions. Interests include Full-Stack Web, DevOps and Geographic Information Systems.
+Kariuki here, Geospatial Software Engineer constantly learning and seeking solutions in code, location intelligence and the world wide web. You will find Kariuki busy with FullStack Development, DevOps and Geographic Information Systems.
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jkariukidev.jkariukidev" alt="visitor badge"/>
 
-- 🏢 Currently working as a geospatial software engineer.
-- 🚀 Day-to-day development stack: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+- 🏢 Currently working as **Quality Assurance & Support Engineer** with [**GeoSolutions-it**](https://github.com/geosolutions-it/).
+- 🚀 Day-to-day development includes: 
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Docker](https://img.shields.io/badge/-docker-1642B6?style=plastic&logo=docker)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Linux](https://img.shields.io/badge/-Linux-black?style=plastic&logo=linux)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=blue)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
 - 💻 I also work using:
-  ![PyQt](https://img.shields.io/badge/-PyQt-394459?style=plastic&logo=qt)
   ![QGIS](https://img.shields.io/badge/-QGIS-092E20?style=plastic&logo=qgis)
-  ![Linux](https://img.shields.io/badge/-Linux-black?style=plastic&logo=linux)
-  ![Windows](https://img.shields.io/badge/-Windows-1572B6?&style=plastic&logo=windows)
+  ![Leaflet](https://img.shields.io/badge/-Leaflet-1gead1?style=plastic&logo=Leaflet)
+  ![OpenLayers](https://img.shields.io/badge/-OpenLayers-4fcfd1?style=plastic&logo=OpenLayers)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![PyQt](https://img.shields.io/badge/-PyQt-394459?style=plastic&logo=qt)
   ![Wordpress](https://img.shields.io/badge/-wordpress-394459?style=plastic&logo=wordpress)
+  ![Windows](https://img.shields.io/badge/-Windows-1572B6?&style=plastic&logo=windows)
 - 🌱 Learning about:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
+  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D)
 - Feel free to connect with me: 
