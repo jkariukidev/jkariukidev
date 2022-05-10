@@ -24,7 +24,6 @@ Kariuki here, Geospatial Software Engineer constantly learning and seeking solut
 - 🌱 Learning about:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D)
 - Feel free to connect with me: 
