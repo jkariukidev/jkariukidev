@@ -4,7 +4,7 @@ Kariuki here, Geospatial Software Engineer constantly learning and seeking solut
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jkariukidev.jkariukidev" alt="visitor badge"/>
 
-- 🏢 Currently working as **Quality Assurance & Support Engineer** with [**GeoSolutions-it**](https://github.com/geosolutions-it/).
+- 🏢 Currently working as **QA & Support Engineer** with [**GeoSolutions-it**](https://github.com/geosolutions-it/).
 - 🚀 Day-to-day development includes: 
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Docker](https://img.shields.io/badge/-docker-1642B6?style=plastic&logo=docker)
