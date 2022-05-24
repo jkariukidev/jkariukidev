@@ -11,16 +11,15 @@ Kariuki here, Geospatial Software Engineer constantly learning and seeking solut
   ![Linux](https://img.shields.io/badge/-Linux-black?style=plastic&logo=linux)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=blue)
+- 💻 I also work using:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-- 💻 I also work using:
   ![QGIS](https://img.shields.io/badge/-QGIS-092E20?style=plastic&logo=qgis)
   ![Leaflet](https://img.shields.io/badge/-Leaflet-1gead1?style=plastic&logo=Leaflet)
   ![OpenLayers](https://img.shields.io/badge/-OpenLayers-4fcfd1?style=plastic&logo=OpenLayers)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![PyQt](https://img.shields.io/badge/-PyQt-394459?style=plastic&logo=qt)
   ![Wordpress](https://img.shields.io/badge/-wordpress-394459?style=plastic&logo=wordpress)
-  ![Windows](https://img.shields.io/badge/-Windows-1572B6?&style=plastic&logo=windows)
 - 🌱 Learning about:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
