@@ -44,10 +44,9 @@ Kariuki here, Geospatial Software Engineer constantly learning and seeking solut
 * * *
 
 
-# Some Blog Posts
+# My recent content
 
 
-- [Installing and Running WSL on Windows](https://josephkariuki.com/programming/enabling-running-wsl/)
-- [Working with Python Virtual Environments in Windows](https://josephkariuki.com/programming/working-with-python-virtual-environments-in-windows/)
-- [GeoNode advanced installation using Docker](https://josephkariuki.com/gis/geonode-basic-installation-using-docker/)
-- [Deploying GeoServer on Ubuntu](https://josephkariuki.com/gis/installing-qgis-in-ubuntu/)
+- [Managing Python virtual environments with Virtualenvwrapper](https://dev.to/jkariukidev/virtualenvwrapper-python-virtual-environments-3fj7)
+- [Brief introduction to Django](https://dev.to/jkariukidev/django-a-brief-introduction-11hl)
+- [GIS with GeoNode](https://www.youtube.com/playlist?list=PLIET7uEHqcqjvYzOyvVCuUHenytFDLFq6)
