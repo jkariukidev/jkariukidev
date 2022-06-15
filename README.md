@@ -3,8 +3,7 @@
 Kariuki here, Geospatial Software Engineer constantly learning and seeking solutions in code, location intelligence and the world wide web. You will find Kariuki busy with FullStack Development, DevOps and Geographic Information Systems.
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jkariukidev.jkariukidev" alt="visitor badge"/>
-
-- 🏢 I'm a geospatial software engineer.
+ 
 - 🚀 Day-to-day development includes: 
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Docker](https://img.shields.io/badge/-docker-1642B6?style=plastic&logo=docker)
